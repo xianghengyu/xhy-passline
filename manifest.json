@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "xhy-passline",
+    "version": "1.0.0",
+    "description": "一个手机端访问电脑端localhost的工具",
+    "icons": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "permissions": [
+      "tabs",
+      "dns"
+    ],
+    "action": {
+        "default_icon": "icon.png",
+        "default_title": "Popup Title",
+        "default_popup": "popup.html"
+    }
+  }
+  

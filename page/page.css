@@ -1,0 +1,47 @@
+body{
+    padding: 10px;
+    margin: 0;
+    background: transparent;
+}
+.title {
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+.use-notice {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.use-notice>span:nth-child(1) {
+    font-weight: bold;
+    color: red;
+}
+#result {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+.use-way {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#content {
+    width: 300px;
+    height: 400px;
+    background: #fff;
+}
+#dashang {
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+    width: 100%;
+    margin: 10px 0;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+}

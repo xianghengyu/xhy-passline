@@ -10,8 +10,7 @@
       "128": "icon.png"
     },
     "permissions": [
-      "tabs",
-      "dns"
+      "tabs"
     ],
     "action": {
         "default_icon": "icon.png",
